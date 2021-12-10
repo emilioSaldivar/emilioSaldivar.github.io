@@ -388,7 +388,7 @@ html::-webkit-scrollbar-thumb{
   }
 }
 
-/*
+
 .mostrarDesdeIzquierda {
   animation: mostrarDesdeIzquierda 1s;
 }
@@ -401,4 +401,3 @@ html::-webkit-scrollbar-thumb{
     transform: translateX(0);
   }
 }
-*/
